@@ -5,7 +5,7 @@
 
 * Java ([курсовая работа](https://github.com/OksanaLisitsyna/java-ConverterToTextGraphics), [дипломная работа](https://github.com/OksanaLisitsyna/Task-Manager))
 * Git ([пример работы с ветками](https://github.com/OksanaLisitsyna/NeuroStartUp-merge))
-* сборки [Maven](https://github.com/OksanaLisitsyna/Multi-module-Project--Maven), [Gradle](https://github.com/OksanaLisitsyna/Multi-module-Project--Gradle)
+* системы управления проектами [Maven](https://github.com/OksanaLisitsyna/Multi-module-Project--Maven), [Gradle](https://github.com/OksanaLisitsyna/Multi-module-Project--Gradle)
 * инструменты тестирования (примеры с библиотеками [JUnit](https://github.com/OksanaLisitsyna/PopulationCensusWithTests), [Mockito](https://github.com/OksanaLisitsyna/geo-service))
 * знание шаблонов проектирования ([Singleton](https://github.com/OksanaLisitsyna/Logger_Singleton), [Builder](https://github.com/OksanaLisitsyna/Person_Builder), [Adapter](https://github.com/OksanaLisitsyna/Calculator-Adapter), [Facade](https://github.com/OksanaLisitsyna/BinaryFacade), [Iterator](https://github.com/OksanaLisitsyna/Iterator))
 * работа с файлами CSV, XML, JSON ([пример](https://github.com/OksanaLisitsyna/CSV_and_XML_to_JSON))
