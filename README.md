@@ -19,8 +19,8 @@
 * [Цифровой маркетинг и медиа](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/certificate%20(marketing).pdf) (РАНХиГС)
 * [SQL](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/certificate(SQL).pdf) (Нетология)
 * [1C: Документооборот](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20DO%20prof.pdf) (1С Учебный Центр №1) 
-* [1C: Администрирование](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20adm.pdf) (1С Учебный Центр №1)
-* [1C: Администрирование на Linux](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20linux.pdf) (1С Учебный Центр №1)
+* [1C: Администрирование](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20adm.pdf) (1С-Образование)
+* [1C: Администрирование на Linux](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20linux.pdf) (1С-Образование)
 
 
 
