@@ -9,7 +9,8 @@
 * инструменты тестирования (примеры с библиотеками [JUnit](https://github.com/OksanaLisitsyna/PopulationCensusWithTests), [Mockito](https://github.com/OksanaLisitsyna/geo-service))
 * знание шаблонов проектирования ([Singleton](https://github.com/OksanaLisitsyna/Logger_Singleton), [Builder](https://github.com/OksanaLisitsyna/Person_Builder), [Adapter](https://github.com/OksanaLisitsyna/Calculator-Adapter), [Facade](https://github.com/OksanaLisitsyna/BinaryFacade), [Iterator](https://github.com/OksanaLisitsyna/Iterator))
 * работа с файлами CSV, XML, JSON ([пример](https://github.com/OksanaLisitsyna/CSV_and_XML_to_JSON))
-* SQL
+* PostgreSQL
+* 1C
 
 ### Сертификаты
 
@@ -21,7 +22,3 @@
 * [1C: Документооборот](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20DO%20prof.pdf) (1С Учебный Центр №1) 
 * [1C: Администрирование](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20adm.pdf) (1С-Образование)
 * [1C: Администрирование на Linux](https://github.com/OksanaLisitsyna/OksanaLisitsyna/blob/main/1c%20linux.pdf) (1С-Образование)
-
-
-
-### Моё [резюме](https://docs.google.com/document/d/1QUNOgIrQgacuBzWofNImWFgFzu5zRRFMwSc2M8ApCpQ/edit#)
